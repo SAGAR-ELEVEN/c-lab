@@ -1,2 +1,2 @@
 # c-lab
-This is my Projects-00 Repository.
+This is my c-lab Repository.
